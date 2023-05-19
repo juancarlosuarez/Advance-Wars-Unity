@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 360b3d89c6286f946a9afc3f1ba44759, type: 3}
+  m_Name: AllControllersStartMenu
+  m_EditorClassIdentifier: Assembly-CSharp::IOptionsReferencesLists
+  reference:
+  - {fileID: 6035640817770358458, guid: c617bbc9517dcfe4a9d99655ab8bce02, type: 3}

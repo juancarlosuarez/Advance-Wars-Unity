@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7843486766685643947
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7843486766685643956}
+  - component: {fileID: 7843486766685643957}
+  - component: {fileID: 7843486766685643946}
+  m_Layer: 0
+  m_Name: Factory
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7843486766685643956
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7843486766685643947}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.030142106, y: -0.2493179, z: -7.0535316}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7843486766685643957
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7843486766685643947}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5aab55c026df3640bb226f71914201c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dataPermanentMenus: {fileID: 11400000, guid: bb9098888cdb4dd418c78820a75087cd, type: 2}
+  smallArrowHighLight: {fileID: 11400000, guid: aa9b99cfef804ca4c9cfa42d109f8bfc, type: 2}
+  regularArrowHighLight: {fileID: 11400000, guid: 9cfbc9736b2a7a341b172a821b0d334b, type: 2}
+--- !u!114 &7843486766685643946
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7843486766685643947}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ed0b96298d4f146bbf61fd02a6aa33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: _allPrefabsControllers
+      Entry: 6
+      Data: 
+  controllerMenu: 0
+  nameFrameGeneric: 0
+  _menuManager: {fileID: 11400000, guid: 769d059b808a5df4f968878c6fb85000, type: 2}
+  allControllersReferences: {fileID: 11400000, guid: 5be153218d370cc48b4773c3db773286, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10026016eb3d8e840b7daa52160d5a6a, type: 3}
+  m_Name: FileOptionData
+  m_EditorClassIdentifier: 
+  _data:
+  - text: Load
+    icon: {fileID: -2628873003917925691, guid: 3eb0f4b3c42df8946b17494218e229ce, type: 3}
+  - text: Save
+    icon: {fileID: -3621736162642585955, guid: 3eb0f4b3c42df8946b17494218e229ce, type: 3}
+  - text: Name Entry
+    icon: {fileID: -6276616108420910666, guid: 3eb0f4b3c42df8946b17494218e229ce, type: 3}

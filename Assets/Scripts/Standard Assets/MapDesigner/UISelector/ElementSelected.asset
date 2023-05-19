@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f4f68746c7da9848a0b16d73ad66d19, type: 3}
+  m_Name: ElementSelected
+  m_EditorClassIdentifier: 
+  spriteElementSelected: {fileID: -3627264120405484348, guid: ea810fd002aeb134a9d714d3f740c295, type: 3}
+  nameElementSelected: Water
+  prefab: {fileID: 4630848295605485467, guid: b84bc37aaa0495b46b8e796596c38bcb, type: 3}

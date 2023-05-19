@@ -1,0 +1,369 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6812744605931810672
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6812744605931810686}
+  - component: {fileID: 6812744605931810673}
+  m_Layer: 0
+  m_Name: ControllerTileSliderMenu
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6812744605931810686
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6812744605931810672}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 15.138539, y: 4.6036515, z: -5.2241764}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6812744605931810673
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6812744605931810672}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d581cbf550967214d868eb1e1d858234, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 11400000, guid: 727fbce316138e649943951cd2565f4b, type: 2}
+    - {fileID: 11400000, guid: 32de4696f719c0e4ba3b66d6ea09d340, type: 2}
+    - {fileID: 11400000, guid: 575d2a1c9c86ee2449f05cb324b618bd, type: 2}
+    - {fileID: 11400000, guid: d39db4a1496abd449bac45070deb9bf4, type: 2}
+    - {fileID: 11400000, guid: 4c191f11b4ccc3846a17e4336260bbf8, type: 2}
+    - {fileID: 11400000, guid: 65c857f0c166f5744905e148715eea25, type: 2}
+    - {fileID: 11400000, guid: 7244617b2dd1cbb41bd93fd33cc5090d, type: 2}
+    - {fileID: 11400000, guid: 5233ac7cea95ce74a98c8f045b38bf51, type: 2}
+    - {fileID: 11400000, guid: 327375f84e27826498fe4976118d3ebb, type: 2}
+    - {fileID: 11400000, guid: c154f36f5cba13d499847e2b4b0b9325, type: 2}
+    - {fileID: 11400000, guid: 64da0099b08493843bcd7c0ff807975d, type: 2}
+    - {fileID: 11400000, guid: 1b04d48024c183549b82604bcc230397, type: 2}
+    - {fileID: 11400000, guid: 465133908b2f8b44db85c6f6d32176e8, type: 2}
+    - {fileID: 11400000, guid: e74e98c079ba15f42a99c6825ca6fef5, type: 2}
+    - {fileID: 11400000, guid: 127879dbeecf60b418b84329a8d5edb7, type: 2}
+    - {fileID: 11400000, guid: e587af3a468103c45966854fe573250f, type: 2}
+    - {fileID: 11400000, guid: 5cbf0d1b2ad8cab4bb7374a158960c69, type: 2}
+    - {fileID: 11400000, guid: 2a731da16591e664db8497c7382e9be8, type: 2}
+    - {fileID: 11400000, guid: ccf327cf5c6f24e4b94b6d7efe84902f, type: 2}
+    - {fileID: 11400000, guid: 26854b1743c0228479acfed22746d498, type: 2}
+    - {fileID: 11400000, guid: 5933a325927e2c9449d690522995f5fa, type: 2}
+    - {fileID: 11400000, guid: a2cc319641cadef45864aabd2223d0ee, type: 2}
+    - {fileID: 11400000, guid: eb240da6ddb4ba947b33339d3f4752b2, type: 2}
+    - {fileID: 11400000, guid: 9755652eecc3cde4699baf31fc6fdedb, type: 2}
+    - {fileID: 11400000, guid: bbeb2bd08d03e5a4289910bcaa4ee15b, type: 2}
+    - {fileID: 11400000, guid: 8612e0b5bc177f04a924b618fc5c7f97, type: 2}
+    - {fileID: 11400000, guid: d9bbed3741b54744bbc45faab8a6acbd, type: 2}
+    - {fileID: 11400000, guid: 579ca435f63ec234bb1c529a31b97871, type: 2}
+    - {fileID: 11400000, guid: 3a0541dd32aec47458cd5b42a4ccc928, type: 2}
+    - {fileID: 11400000, guid: 525263bdd15cbc948b3785d4051c9196, type: 2}
+    - {fileID: 11400000, guid: ff5970517ef976642b2384a4ec602aa6, type: 2}
+    - {fileID: 11400000, guid: ba3801fae55ee9544af189f1e42b03ae, type: 2}
+    - {fileID: 11400000, guid: 51aa56d70d6639547a7b43e27622c660, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: prefabsTilesAndBuilds
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[System.Collections.Generic.List`1[[IElementSliderMenu,
+        Assembly-CSharp]], mscorlib]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: 1|System.Collections.Generic.List`1[[IElementSliderMenu, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 13
+    - Name: 
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 4
+    - Name: 
+      Entry: 10
+      Data: 5
+    - Name: 
+      Entry: 10
+      Data: 6
+    - Name: 
+      Entry: 10
+      Data: 7
+    - Name: 
+      Entry: 10
+      Data: 8
+    - Name: 
+      Entry: 10
+      Data: 9
+    - Name: 
+      Entry: 10
+      Data: 10
+    - Name: 
+      Entry: 10
+      Data: 11
+    - Name: 
+      Entry: 10
+      Data: 12
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 2|System.Collections.Generic.List`1[[IElementSliderMenu, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 13
+    - Name: 
+      Entry: 10
+      Data: 13
+    - Name: 
+      Entry: 10
+      Data: 14
+    - Name: 
+      Entry: 10
+      Data: 15
+    - Name: 
+      Entry: 10
+      Data: 16
+    - Name: 
+      Entry: 10
+      Data: 17
+    - Name: 
+      Entry: 10
+      Data: 5
+    - Name: 
+      Entry: 10
+      Data: 6
+    - Name: 
+      Entry: 10
+      Data: 7
+    - Name: 
+      Entry: 10
+      Data: 8
+    - Name: 
+      Entry: 10
+      Data: 9
+    - Name: 
+      Entry: 10
+      Data: 10
+    - Name: 
+      Entry: 10
+      Data: 11
+    - Name: 
+      Entry: 10
+      Data: 12
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 3|System.Collections.Generic.List`1[[IElementSliderMenu, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 13
+    - Name: 
+      Entry: 10
+      Data: 18
+    - Name: 
+      Entry: 10
+      Data: 19
+    - Name: 
+      Entry: 10
+      Data: 20
+    - Name: 
+      Entry: 10
+      Data: 21
+    - Name: 
+      Entry: 10
+      Data: 22
+    - Name: 
+      Entry: 10
+      Data: 5
+    - Name: 
+      Entry: 10
+      Data: 6
+    - Name: 
+      Entry: 10
+      Data: 7
+    - Name: 
+      Entry: 10
+      Data: 8
+    - Name: 
+      Entry: 10
+      Data: 9
+    - Name: 
+      Entry: 10
+      Data: 10
+    - Name: 
+      Entry: 10
+      Data: 11
+    - Name: 
+      Entry: 10
+      Data: 12
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|System.Collections.Generic.List`1[[IElementSliderMenu, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 13
+    - Name: 
+      Entry: 10
+      Data: 23
+    - Name: 
+      Entry: 10
+      Data: 24
+    - Name: 
+      Entry: 10
+      Data: 25
+    - Name: 
+      Entry: 10
+      Data: 26
+    - Name: 
+      Entry: 10
+      Data: 27
+    - Name: 
+      Entry: 10
+      Data: 5
+    - Name: 
+      Entry: 10
+      Data: 6
+    - Name: 
+      Entry: 10
+      Data: 7
+    - Name: 
+      Entry: 10
+      Data: 8
+    - Name: 
+      Entry: 10
+      Data: 9
+    - Name: 
+      Entry: 10
+      Data: 10
+    - Name: 
+      Entry: 10
+      Data: 11
+    - Name: 
+      Entry: 10
+      Data: 12
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 5|System.Collections.Generic.List`1[[IElementSliderMenu, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 13
+    - Name: 
+      Entry: 10
+      Data: 28
+    - Name: 
+      Entry: 10
+      Data: 29
+    - Name: 
+      Entry: 10
+      Data: 30
+    - Name: 
+      Entry: 10
+      Data: 31
+    - Name: 
+      Entry: 10
+      Data: 32
+    - Name: 
+      Entry: 10
+      Data: 5
+    - Name: 
+      Entry: 10
+      Data: 6
+    - Name: 
+      Entry: 10
+      Data: 7
+    - Name: 
+      Entry: 10
+      Data: 8
+    - Name: 
+      Entry: 10
+      Data: 9
+    - Name: 
+      Entry: 10
+      Data: 10
+    - Name: 
+      Entry: 10
+      Data: 11
+    - Name: 
+      Entry: 10
+      Data: 12
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  nameMenu: 0
+  managerPositionLists: {fileID: 11400000, guid: 12df3f955189e3e41a2c4b72b851a401, type: 2}
+  elementsDataUI:
+  - {fileID: 11400000, guid: 1fd4eb69cc3f24f4983c9988829aed2c, type: 2}
+  - {fileID: 11400000, guid: 716a8312b82b27c4c9cc895cf0c8638e, type: 2}
+  - {fileID: 11400000, guid: 89b0669f9a4b39b48bbd23d7d1a2b766, type: 2}
+  - {fileID: 11400000, guid: 3ed40c1cea801104ead056fde43df540, type: 2}
+  - {fileID: 11400000, guid: b83752d15ec109647b25695de233cfa0, type: 2}
+  _putElementsEditMap: {fileID: 11400000, guid: 1fb07e8eb46ddb445865b75236614c50, type: 2}

@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AtlasNumbers
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: -7077136783000234982, guid: c5ca846d2af73004fb1f72861a6d9af0, type: 3}
+    - {fileID: -3535199627505139660, guid: c5ca846d2af73004fb1f72861a6d9af0, type: 3}
+    - {fileID: 9074829789063821558, guid: c5ca846d2af73004fb1f72861a6d9af0, type: 3}
+    - {fileID: -3410855853631046844, guid: c5ca846d2af73004fb1f72861a6d9af0, type: 3}
+    - {fileID: -340765070597893449, guid: c5ca846d2af73004fb1f72861a6d9af0, type: 3}
+    - {fileID: -4889026694063141841, guid: c5ca846d2af73004fb1f72861a6d9af0, type: 3}
+    - {fileID: 9113012713933809329, guid: c5ca846d2af73004fb1f72861a6d9af0, type: 3}
+    - {fileID: -8445320282344990565, guid: c5ca846d2af73004fb1f72861a6d9af0, type: 3}
+    - {fileID: -6042578775341268802, guid: c5ca846d2af73004fb1f72861a6d9af0, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -6042578775341268802, guid: c5ca846d2af73004fb1f72861a6d9af0, type: 3}
+  - {fileID: -8445320282344990565, guid: c5ca846d2af73004fb1f72861a6d9af0, type: 3}
+  - {fileID: -4889026694063141841, guid: c5ca846d2af73004fb1f72861a6d9af0, type: 3}
+  - {fileID: 9113012713933809329, guid: c5ca846d2af73004fb1f72861a6d9af0, type: 3}
+  - {fileID: -3535199627505139660, guid: c5ca846d2af73004fb1f72861a6d9af0, type: 3}
+  - {fileID: 9074829789063821558, guid: c5ca846d2af73004fb1f72861a6d9af0, type: 3}
+  - {fileID: -3410855853631046844, guid: c5ca846d2af73004fb1f72861a6d9af0, type: 3}
+  - {fileID: -340765070597893449, guid: c5ca846d2af73004fb1f72861a6d9af0, type: 3}
+  - {fileID: -7077136783000234982, guid: c5ca846d2af73004fb1f72861a6d9af0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Unitis_11
+  - Unitis_10
+  - Unitis_8
+  - Unitis_9
+  - Unitis_4
+  - Unitis_5
+  - Unitis_6
+  - Unitis_7
+  - Unitis_3
+  m_RenderDataMap: {}
+  m_Tag: AtlasNumbers
+  m_IsVariant: 0

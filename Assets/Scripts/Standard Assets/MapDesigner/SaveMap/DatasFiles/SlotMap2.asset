@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45e61aaccc1cfba44b12d1d07b5986c9, type: 3}
+  m_Name: SlotMap2
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: tilesOfTheGrid
+      Entry: 6
+      Data: 
+    - Name: idTileMainCityEachPlayer
+      Entry: 6
+      Data: 
+  height: 28
+  width: 28
+  allSoldierInGrid: []
+  allBuildInGrid: []
+  mapName: Pene
+  positionIDCornerLeftDown: 0
+  positionIDCornerLeftUp: 0
+  positionIDCornerRightDown: 0
+  positionIDCornerRightUp: 0
+  allTilesCornerLeftDown: 
+  allTilesCornerLeftUp: 
+  allTilesCornerRightDown: 
+  allTilesCornerRightUp: 
+  positionTileCameraLeftDown: 0
+  positionTileCameraLeftUp: 0
+  positionTileCameraRightDown: 0
+  positionTileCameraRightUp: 0
+  allEdgesID: 

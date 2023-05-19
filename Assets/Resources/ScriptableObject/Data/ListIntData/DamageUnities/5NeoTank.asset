@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b472fc17f5db028498474864e0e62722, type: 3}
+  m_Name: 5NeoTank
+  m_EditorClassIdentifier: 
+  reference: 7d000000730000007d000000690000004b0000004d0000007d000000730000007d000000730000007d0000001600000037000000000000000000000028000000320000000f0000000a000000

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5cae77ec86c2144590052776c577fe4, type: 3}
+  m_Name: BarrackGroundPlayer4
+  m_EditorClassIdentifier: 
+  _data:
+  - spriteSoldier: {fileID: 8440646599437565472, guid: b9a3594a5eda6db41a3775876c19a7f3, type: 3}
+    nameUnit: 0
+    faction: 4
+    goldCost: 1000
+  - spriteSoldier: {fileID: 8931398280549580164, guid: b9a3594a5eda6db41a3775876c19a7f3, type: 3}
+    nameUnit: 1
+    faction: 4
+    goldCost: 3000
+  - spriteSoldier: {fileID: -1161888518874261820, guid: b9a3594a5eda6db41a3775876c19a7f3, type: 3}
+    nameUnit: 2
+    faction: 4
+    goldCost: 4000
+  - spriteSoldier: {fileID: -837429693206009696, guid: b9a3594a5eda6db41a3775876c19a7f3, type: 3}
+    nameUnit: 3
+    faction: 4
+    goldCost: 7000
+  - spriteSoldier: {fileID: 1807420356646031847, guid: b9a3594a5eda6db41a3775876c19a7f3, type: 3}
+    nameUnit: 4
+    faction: 4
+    goldCost: 16000
+  - spriteSoldier: {fileID: 5975997093801879186, guid: b9a3594a5eda6db41a3775876c19a7f3, type: 3}
+    nameUnit: 5
+    faction: 4
+    goldCost: 22000
+  - spriteSoldier: {fileID: 2994891650674503974, guid: b9a3594a5eda6db41a3775876c19a7f3, type: 3}
+    nameUnit: 6
+    faction: 4
+    goldCost: 5000
+  - spriteSoldier: {fileID: -2074382438287234875, guid: b9a3594a5eda6db41a3775876c19a7f3, type: 3}
+    nameUnit: 7
+    faction: 4
+    goldCost: 6000
+  - spriteSoldier: {fileID: -7372408192753694751, guid: b9a3594a5eda6db41a3775876c19a7f3, type: 3}
+    nameUnit: 8
+    faction: 4
+    goldCost: 15000
+  - spriteSoldier: {fileID: 7199832818571530632, guid: b9a3594a5eda6db41a3775876c19a7f3, type: 3}
+    nameUnit: 9
+    faction: 4
+    goldCost: 8000
+  - spriteSoldier: {fileID: -5162032359148661289, guid: b9a3594a5eda6db41a3775876c19a7f3, type: 3}
+    nameUnit: 10
+    faction: 4
+    goldCost: 12000

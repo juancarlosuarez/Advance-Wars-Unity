@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10026016eb3d8e840b7daa52160d5a6a, type: 3}
+  m_Name: OptionEditsData
+  m_EditorClassIdentifier: 
+  _data:
+  - text: Music On
+    icon: {fileID: 5342761152200878966, guid: 3eb0f4b3c42df8946b17494218e229ce, type: 3}
+  - text: Exit Map
+    icon: {fileID: 7175484999187898523, guid: 256f22671a2ea6646aa9caf804548213, type: 3}

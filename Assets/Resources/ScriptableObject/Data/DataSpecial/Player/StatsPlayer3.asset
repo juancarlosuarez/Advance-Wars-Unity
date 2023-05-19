@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bdc8bab33f46c3439ae4d32bdb1bd0c, type: 3}
+  m_Name: StatsPlayer3
+  m_EditorClassIdentifier: 
+  citiesAmount: 0
+  goldAmount: 500
+  allUnits: []
+  allBarrack: []
+  playerSprite: {fileID: 2302569776653460228, guid: 950a294363d7b644c978d4ebd6025aeb, type: 3}
+  coverPlayer: {fileID: -1636763894834328737, guid: 950a294363d7b644c978d4ebd6025aeb, type: 3}

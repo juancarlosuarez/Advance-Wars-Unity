@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b68cf1c8d0899d46958b4e0815949ed, type: 3}
+  m_Name: Light Infantry Player 2
+  m_EditorClassIdentifier: 
+  Faction: 1
+  UnitPrefab: {fileID: 5032811612519616540, guid: b20605ec398e9d74a8c36a7c2a4dd8b4, type: 3}

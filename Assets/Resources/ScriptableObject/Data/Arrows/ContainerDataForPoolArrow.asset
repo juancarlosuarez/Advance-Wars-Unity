@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2980e07c00122b448b43c7fa20273bf9, type: 3}
+  m_Name: ContainerDataForPoolArrow
+  m_EditorClassIdentifier: 
+  listDataArrow:
+  - currentArrowType: 0
+    spawnCount: 1
+    prefab: {fileID: 3363887907588262689, guid: 96f7d4aa3093fce4c8c49a0eecad8b1c, type: 3}
+  - currentArrowType: 1
+    spawnCount: 10
+    prefab: {fileID: 3363887907588262689, guid: 96f7d4aa3093fce4c8c49a0eecad8b1c, type: 3}
+  - currentArrowType: 2
+    spawnCount: 10
+    prefab: {fileID: 3363887907588262689, guid: 96f7d4aa3093fce4c8c49a0eecad8b1c, type: 3}
+  - currentArrowType: 3
+    spawnCount: 10
+    prefab: {fileID: 3482562996679227120, guid: b9816baf74eb8fe45850d89492dd4fdd, type: 3}
+  - currentArrowType: 4
+    spawnCount: 10
+    prefab: {fileID: 3482562996679227120, guid: b9816baf74eb8fe45850d89492dd4fdd, type: 3}
+  - currentArrowType: 5
+    spawnCount: 2
+    prefab: {fileID: 3684792210773691499, guid: 20336467f76a9ff4c979d97f9c027112, type: 3}
+  - currentArrowType: 6
+    spawnCount: 2
+    prefab: {fileID: 6522499669863302467, guid: 085156e18d493c34db4d531ab2302181, type: 3}
+  - currentArrowType: 7
+    spawnCount: 2
+    prefab: {fileID: 5425084120035247210, guid: 8f0347a4b2fe9b647a2736c3c5171565, type: 3}
+  - currentArrowType: 8
+    spawnCount: 2
+    prefab: {fileID: 797109212871552068, guid: 25b7fcfabe515d04c85819927a1e4fc4, type: 3}
+  - currentArrowType: 9
+    spawnCount: 6
+    prefab: {fileID: 4030102551452594317, guid: 7274bddd201617e4c983eebbb2a457dc, type: 3}
+  - currentArrowType: 10
+    spawnCount: 6
+    prefab: {fileID: 1736790366129367307, guid: 418608f6344fcba4585d584dbc23a161, type: 3}
+  - currentArrowType: 11
+    spawnCount: 6
+    prefab: {fileID: 7283615709346235634, guid: 748c14bf9a12c2b43a8c022e3923f3a8, type: 3}
+  - currentArrowType: 12
+    spawnCount: 6
+    prefab: {fileID: 894829040054802271, guid: b6f8dd9e2bd4a854a80f0844f5edfd55, type: 3}
